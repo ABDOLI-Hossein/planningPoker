@@ -18,16 +18,18 @@ It enables real-time collaboration between multiple players and supports various
 ## Usage Instructions
 
 1. Install packaegs by the command: 
-    npm install
-
+```bash    
+npm install
+```
 
 2. Start the server using the command:
-   node server.js
-   
+```bash
+node server.js
+```
 
-3. Open the application in multiple tabs or devices to simulate multiple players.
+4. Open the application in multiple tabs or devices to simulate multiple players.
 
-4. Enter player details, select a game mode, and load a backlog in the following JSON format:
+5. Enter player details, select a game mode, and load a backlog in the following JSON format:
    ```json
    [
        {
@@ -48,9 +50,9 @@ It enables real-time collaboration between multiple players and supports various
    ]
    ```
 
-5. Players vote on each task. Results are calculated based on the selected game mode.
+6. Players vote on each task. Results are calculated based on the selected game mode.
 
-6. If all tasks are completed, the results are saved to a `backlog-result.json` file.
+7. If all tasks are completed, the results are saved to a `backlog-result.json` file.
 
 ## Technical Details
 
