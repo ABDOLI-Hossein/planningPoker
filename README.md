@@ -34,17 +34,17 @@ node server.js
    [
        {
            "id": 1,
-           "name": "Work 1",
+           "name": "tâche 1",
            "estimatedDifficulty": null
        },
        {
            "id": 2,
-           "name": "Work 2",
+           "name": "tâche 2",
            "estimatedDifficulty": null
        },
        {
            "id": 3,
-           "name": "Work 3",
+           "name": "tâche 3",
            "estimatedDifficulty": null
        }
    ]
@@ -73,4 +73,4 @@ node server.js
 
 ## Contact
 
-For any issues or feedback, please contact the project maintainers.
+sorushabdoli@gmail.com
