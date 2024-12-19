@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Work 1",
+    "estimatedDifficulty": 3
+  },
+  {
+    "id": 2,
+    "name": "Work 2",
+    "estimatedDifficulty": 1
+  },
+  {
+    "id": 3,
+    "name": "Work 3",
+    "estimatedDifficulty": 3
+  }
+]
